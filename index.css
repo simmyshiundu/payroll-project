@@ -1,0 +1,61 @@
+body {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    color: #555;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.section_1 .contact_number {
+    margin-left: 77%;
+    margin-top: 1.9%;
+}
+
+.section_1 .contact_number a {
+    color: #337AB7;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 1.2%;
+    position: absolute;
+    top: 5%;
+}
+
+.section_1 .contact_number a:hover {
+    color: #551A8B;
+    text-decoration: underline;
+}
+
+.section_2 {
+    display: flex;
+}
+
+.section_3 {
+    display: flex;
+    height: 340px;
+    justify-content: space-around;
+    background-color: #222222;
+    color: white;
+}
+
+.section_3 a {
+    text-decoration: none;
+    color: white;
+}
+
+.section_3 .section_3a {
+    height: 340px;
+    width: 340px;
+}
+
+.section_3 .section_3b {
+    height: 340px;
+    width: 340px;
+}
+
+.section_3 .section_3b a:hover {
+    text-decoration: underline;
+}
+
+.section_3 .section_3c {
+    height: 340px;
+    width: 340px;
+}
